@@ -1,0 +1,13 @@
+body{
+    background-color: #eceff1;
+}
+
+.img-navbar{
+    max-width: 30%;
+    display: flex;
+    margin: 1px 1px;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
