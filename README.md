@@ -1,5 +1,5 @@
 ﻿# ask-web 
- This is a web project maked from purpose for presentation, maked using NodeJs for backend and bootstrap for frontend, 
+ This is a web project maked from purpose for presentation, bases in the popular website ask.fm , maked using NodeJs for backend and bootstrap for frontend, 
  pull your request if you want.
  
  
